@@ -1,0 +1,221 @@
+*{
+    margin: auto;
+    font-family: 'Open Sans Condensed', sans-serif;  
+  }
+
+.Mi_fondo {
+    height: 100%;
+    width: 100%;
+    min-width: 300px;
+    top: 0;
+    left: 0;
+    opacity: 0.9;
+}
+.img_avatar{
+    position: fixed;
+    top: 15%;
+    left: 70%;
+    width: 140px;
+    height: 140px;
+    border-radius: 0px 60px 0px 60px;
+    box-shadow: 8px 8px 8px black;
+    z-index: 1;
+  }
+.hola{
+    position: absolute;
+    display: flex;
+    top: 30%;
+    left: 5%;
+    width: 600px ;
+    height: 70px;
+    border-radius: 0px 60px 0px 60px;
+    background-color: rgb(196, 131, 41);
+    align-items: center;
+    box-shadow: 8px 8px 8px black;
+    padding: 10px;
+    font-size: 20px;
+}
+.descrip{
+    position: absolute;
+    display: flex;
+    top: 50%;
+    left: 40%;
+    width: 500px ;
+    height: 200px;
+    border-radius: 0px 60px 0px 60px;
+    background-color: rgb(35, 159, 190);
+    align-items: center;
+    text-align: center;
+    box-shadow: 8px 8px 8px black;
+    padding: 10px;
+    font-size: 25px;
+}
+.desarro{
+    position: absolute;
+    display: flex;
+    top: 115%;
+    left: 5%;
+    width: 500px ;
+    height: 200px;
+    border-radius: 0px 60px 0px 60px;
+    background-color: rgb(175, 126, 98);
+    align-items: center;
+    text-align: center;
+    box-shadow: 8px 8px 8px black;
+    padding: 10px;
+    font-size: 25px;
+    color:white;
+}
+.img_2{
+    border-radius: 0px 60px 0px 60px;
+    width: 400px;
+    height: 150px;
+    padding: 10px;
+}
+.Creador{
+    position: absolute;
+    display: flex;
+    top: 165%;
+    left: 40%;
+    width: 500px ;
+    height: 200px;
+    border-radius: 0px 60px 0px 60px;
+    background-color: rgb(241, 220, 207);
+    align-items: center;
+    text-align: center;
+    box-shadow: 8px 8px 8px black;
+    padding: 10px;
+    font-size: 25px;
+}
+.cripto {
+    position: absolute;
+    display: flex;
+    top: 215%;
+    left: 4%;
+    width: 700px ;
+    height: 200px;
+    border-radius: 0px 60px 0px 60px;
+    background-color: rgb(189, 54, 54);
+    align-items: center;
+    text-align: center;
+    box-shadow: 8px 8px 8px black;
+    padding: 10px;
+    font-size: 25px;
+    color:white;
+}
+.Cardano{
+    position: absolute;
+    display: flex;
+    top: 260%;
+    left: 40%;
+    width: 500px ;
+    height: 200px;
+    border-radius: 0px 60px 0px 60px;
+    background-color: rgb(22, 129, 54);
+    align-items: center;
+    text-align: center;
+    box-shadow: 8px 8px 8px black;
+    padding: 10px;
+    font-size: 25px;
+    color: white;
+}
+.sociable{
+    position: absolute;
+    display: flex;
+    top: 315%;
+    left: 4%;
+    width: 300px ;
+    height: 200px;
+    border-radius: 0px 60px 0px 60px;
+    background-color: rgb(78, 58, 21);
+    align-items: center;
+    text-align: center;
+    box-shadow: 8px 8px 8px black;
+    padding: 10px;
+    font-size: 25px;
+    color:white;
+}
+.sociable_nego{
+    position: absolute;
+    display: flex;
+    top: 360%;
+    left: 40%;
+    width: 500px ;
+    height: 130px;
+    border-radius: 0px 60px 0px 60px;
+    background-color: rgb(219, 174, 89);
+    align-items: center;
+    text-align: center;
+    box-shadow: 8px 8px 8px black;
+    padding: 10px;
+    font-size: 25px;
+    color: black;
+}
+.conocimiento {
+    position: absolute;
+    display: flex;
+    top: 415%;
+    left: 12%;
+    width: 300px ;
+    height: 200px;
+    border-radius: 0px 60px 0px 60px;
+    background-color: rgb(219, 174, 89);
+    align-items: center;
+    text-align: center;
+    box-shadow: 8px 8px 8px black;
+    padding: 10px;
+    font-size: 25px;
+    color:black;
+}
+.conocimiento2 {
+    position: absolute;
+    display: flex;
+    top: 460%;
+    left: 40%;
+    width: 500px ;
+    height: 130px;
+    border-radius: 0px 60px 0px 60px;
+    background-color: rgb(94, 183, 235);
+    align-items: center;
+    text-align: center;
+    box-shadow: 8px 8px 8px black;
+    padding: 10px;
+    font-size: 18px;
+    color: black;
+}
+.redes {
+    position: absolute;
+    display: flex;
+    top: 515%;
+    left: 15%;
+    width: 350px ;
+    height: 150px;
+    border-radius: 0px 60px 0px 60px;
+    background-color: rgb(233, 212, 208);
+    align-items: center;
+    text-align: center;
+    box-shadow: 8px 8px 8px black;
+    padding: 10px;
+    font-size: 25px;
+    color:black;
+}
+.links{
+    position: absolute;
+    display: flex;
+    top: 570%;
+    left: 55%;
+    width: 300px ;
+    height: 130px;
+    border-radius: 0px 60px 0px 60px;
+    background-color: rgb(94, 183, 235);
+    align-items: center;
+    text-align: center;
+    box-shadow: 8px 8px 8px black;
+    padding: 10px;
+    font-size: 25px;
+    color: black;
+    text-decoration: none;
+}
+.icono{
+    width: 60px;
+}
